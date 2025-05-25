@@ -1,5 +1,5 @@
-# Banco de Dados 
-Banco de dados básico para funcionamento um Hospital Parte 1
+# Banco de dados básico para funcionamento um Hospital
+Parte 1
 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional.
 
@@ -16,6 +16,8 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 
 # Os Segredos do Hospital
+Parte 2
+
 Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o Modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
 
 Entender do assunto Considere a seguinte descrição e o diagrama ER abaixo:
