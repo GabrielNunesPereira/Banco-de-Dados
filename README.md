@@ -11,7 +11,7 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso
 
-![Diagrama do Banco de Dados](./image.png)
+![Diagrama do Banco de Dados](./imagem-diagrama.png)
 
 
 
