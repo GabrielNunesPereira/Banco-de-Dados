@@ -40,4 +40,4 @@ Mãos a obra? Faça a ligação do diagrama acima ao diagrama desenvolvido na at
 
 Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
 
-![Diagrama ER com novos requisitos](./parte-2.png)
+![Diagrama ER com novos requisitos](./Parte-2.png)
